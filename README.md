@@ -13,6 +13,10 @@
 
 </div>
 
+## 8.x version is no longer maintained as Drupal 8 is EOL.
+
+## Please use [9.x](https://github.com/drevops/drevops) version instead.
+
 **Please help to improve this [README.md](README.md) file to make it more clear what this project does for the newcomers.**
 
 <hr>
